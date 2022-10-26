@@ -1,7 +1,6 @@
-# UFOs
+# UFO Sightings Webpage with Filter Capabilities
 
 ## Overview
-
 Explain the purpose of this analysis.
 
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
@@ -53,8 +52,7 @@ Dana wants to customize her page by adding specific CSS components to the styles
 - Data Source: https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js, app.js, data.js
 - Software: Javascript 1.5, Bootstrap, Visual Studio Code 1.72.2 
 
-## Process
-### Data Cleaning
+## Results
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation. 
 
 The Wikipedia scraped data wass especially messy. As much as editors try to be consistent, each page can be edited by a different person. Additionally, because the movie data comes from the sidebar, different movies can have different columns. We performed the following data-cleaning tasks:
