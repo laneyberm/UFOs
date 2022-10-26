@@ -61,7 +61,7 @@ The Wikipedia scraped data wass especially messy. As much as editors try to be c
 - Ensured that every movie contained an unique IMDb ID to merge with the Kaggle data
 - Extract the IMDb ID from the IMDb link
 
-<img src="https://github.com/laneyberm/Movies-ETL/blob/main/Resources/competing_columns.png" width="450">
+<img src="https://github.com/laneyberm/UFOs/blob/main/images/storyboard.png" width="450">
 
 
 ## Summary
