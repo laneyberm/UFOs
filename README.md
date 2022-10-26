@@ -9,10 +9,17 @@ Dana's goal was to create an interactive webpage that allows readers to parse th
 - Software: Javascript 1.5, Bootstrap 4.0, Visual Studio Code 1.72.2 
 
 ## Results
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation. 
-The below image is the 
+The below image is the initial webpage without using the filters. The user can re-itialize the webpage by clicking the "UFO Sightings" at the top of the page. 
+<img src="https://github.com/laneyberm/UFOs/blob/main/images/index.png" width="450">
+
+The below image is a storyboard of the webpage and the locations of the data.
 <img src="https://github.com/laneyberm/UFOs/blob/main/images/storyboard.png" width="450">
 
+Users will enter their search in the "Filter Search" shown below. They can filter the data down by date, city, state, country, and shape.
+<img src="https://github.com/laneyberm/UFOs/blob/main/images/filter_search.png" width="250">
+
+An example of filtering the data by the date, 1/13/2010, is shown below with its results.
+<img src="https://github.com/laneyberm/UFOs/blob/main/images/filtered_date.png" width="250">
 
 ## Summary
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
